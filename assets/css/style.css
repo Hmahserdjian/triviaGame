@@ -9,32 +9,7 @@ body {
     background-size: cover;
 }
 
-#Question1 {
-    text-align: center;
-    color: chocolate;
-}
-
-#Question2 {
-    text-align: center;
-    color: darkmagenta;
-}
-
-#Question3 {
-    text-align: center;
-    color: darkorange;
-}
-
-#Question4 {
-    text-align: center;
-    color: indigo;
-}
-
-#Question5 {
-    text-align: center;
-    color: mediumblue
-}
-
-#Question6 {
-    text-align: center;
-    color: orangered;
+button.btn.btn-primary {
+    width: 30%;
+    margin: 10px auto;
 }
