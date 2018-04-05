@@ -53,12 +53,16 @@ function displayQA(params) {
     };
 };
 
-function checkAnswer() {
-    $(".multi").click(function(){0});
-   alert("hello")
-};
+// if (currentQuestion === correct[0]) {
+//     alert.correct("your correct");
+// } else {
 
+// };
 
 displayQA();
    
     
+// function checkAnswer() {
+//     $(".multi").click(function(){0});
+//    alert("hello");
+// };
